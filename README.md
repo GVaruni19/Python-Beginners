@@ -60,7 +60,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       23. Program to Display Characters from A to Z Using Loop
       24. Program to Count Number of Digits in an Integer - solved
       25. Program to Reverse a Number - solved
-      26. Program to Calculate the Power of a Number
+      26. Program to Calculate the Power of a Number - solved
       27. Program to Check Whether a Number is Palindrome or Not - solved
       28. Program to Check Whether a Number is Prime or Not
       29. Program to Check Armstrong Number
@@ -76,7 +76,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       39. Program to Convert Octal Number to Decimal and vice-versa
       40. Program to Convert Binary Number to Octal and vice-versa
       41. program to Reverse a Sentence Using Recursion - solved
-      42. program to calculate the power using recursion - solved
+      42. program to calculate the power using recursion
       43. Program to Calculate Average Using Arrays
       44. Program to Find Largest Element in an Array - solved
       45. Program to Calculate Standard Deviation
