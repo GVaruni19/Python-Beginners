@@ -1,6 +1,0 @@
-a=list(map(int, input().split()) # Lists are just like dynamic sized arrays, declared in other languages (vector in C++ and ArrayList in Java).
-                                # map() function returns a map object(which is an iterator) of the results after applying the given function to each item of a given iterable (list, tuple etc.)
-                                # input().split() is used to eliminate spaces between numbers in input
-a.sort() # sort the list
-print(a[-1]) # Print the last element in the list which will be greatest number of all given elements
-        
