@@ -77,7 +77,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       40. Program to Convert Binary Number to Octal and vice-versa
       41. program to Reverse a Sentence Using Recursion - solved
       42. program to calculate the power using recursion
-      43. Program to Calculate Average Using Arrays
+      43. Program to Calculate Average Using Arrays - solved
       44. Program to Find Largest Element in an Array - solved
       45. Program to Calculate Standard Deviation
       46. Program to Add Two Matrices Using Multi-dimensional Arrays
