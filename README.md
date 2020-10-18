@@ -38,7 +38,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       1.  "Hello, World!" Program - solved
       2.  Program to Print an Integer (Entered by the User) - solved
       3.  Program to Add Two Integers - solved
-      4.  Program to Multiply two Floating Point Numbers
+      4.  Program to Multiply two Floating Point Numbers - solved
       5.  Program to Find ASCII Value of a Character - solved
       6.  Program to Compute Quotient and Remainder - solved
       7.  Program to Find the Size of int, float, double and char
@@ -54,7 +54,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       17. Program to Calculate the Sum of Natural Numbers
       18. Program to Find Factorial of a Number - solved
       19. Program to Generate Multiplication Table - solved
-      20. Program to Display Fibonacci Sequence
+      20. Program to Display Fibonacci Sequence - solved
       21. Program to Find GCD of two Numbers
       22. Program to Find LCM of two Numbers - solved
       23. Program to Display Characters from A to Z Using Loop
@@ -64,7 +64,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       27. Program to Check Whether a Number is Palindrome or Not - solved
       28. Program to Check Whether a Number is Prime or Not
       29. Program to Check Armstrong Number
-      30. Program to Display Factors of a Number
+      30. Program to Display Factors of a Number - solved
       31. Program to Make a Simple Calculator
       32. Program to Display Prime Numbers Between Intervals Using Function
       33. Program to Check Prime or Armstrong Number Using User-defined Function
