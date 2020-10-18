@@ -53,7 +53,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       16. Program to Check Whether a Character is an Alphabet or not
       17. Program to Calculate the Sum of Natural Numbers
       18. Program to Find Factorial of a Number - solved
-      19. Program to Generate Multiplication Table
+      19. Program to Generate Multiplication Table - solved
       20. Program to Display Fibonacci Sequence
       21. Program to Find GCD of two Numbers
       22. Program to Find LCM of two Numbers - solved
