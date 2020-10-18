@@ -57,7 +57,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       20. Program to Display Fibonacci Sequence - solved
       21. Program to Find GCD of two Numbers - solved
       22. Program to Find LCM of two Numbers - solved
-      23. Program to Display Characters from A to Z Using Loop
+      23. Program to Display Characters from A to Z Using Loop - solved
       24. Program to Count Number of Digits in an Integer - solved
       25. Program to Reverse a Number - solved
       26. Program to Calculate the Power of a Number - solved
