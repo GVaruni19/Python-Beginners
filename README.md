@@ -90,3 +90,4 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       
         
 # Note : Questions with solved next to them already have been solved and hence futher pull requests of their soluions will not be accepted.
+Remaining Pull Requests will be dealed starting from 19-10-2020 10am IST
