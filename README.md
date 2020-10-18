@@ -44,7 +44,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       7.  Program to Find the Size of int, float, double and char
       8.  Program to Demonstrate the Working of Keyword long
       9.  Program to Swap Two Numbers - solved
-      10. Program to Check Whether a Number is Even or Odd
+      10. Program to Check Whether a Number is Even or Odd - solved
       11. Program to Check Whether a Character is Vowel or Consonant
       12. Program to Find the Largest Number Among Three Numbers - solved
       13. Program to Find all Roots of a Quadratic Equation provided a,b,c
