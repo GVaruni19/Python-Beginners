@@ -62,7 +62,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       25. Program to Reverse a Number - solved
       26. Program to Calculate the Power of a Number - solved
       27. Program to Check Whether a Number is Palindrome or Not - solved
-      28. Program to Check Whether a Number is Prime or Not
+      28. Program to Check Whether a Number is Prime or Not - solved
       29. Program to Check Armstrong Number
       30. Program to Display Factors of a Number - solved
       31. Program to Make a Simple Calculator
