@@ -82,7 +82,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       45. Program to Calculate Standard Deviation
       46. Program to Add Two Matrices Using Multi-dimensional Arrays
       47. Program to Multiply to Matrix Using Multi-dimensional Arrays
-      48. Program to Find Transpose of a Matrix
+      48. Program to Find Transpose of a Matrix - solved
       49. Program to Multiply two Matrices by Passing Matrix to a Function
       50. Program to Find the Frequency of Characters in a String
       
