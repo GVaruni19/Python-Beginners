@@ -55,7 +55,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       18. Program to Find Factorial of a Number - solved
       19. Program to Generate Multiplication Table - solved
       20. Program to Display Fibonacci Sequence - solved
-      21. Program to Find GCD of two Numbers
+      21. Program to Find GCD of two Numbers - solved
       22. Program to Find LCM of two Numbers - solved
       23. Program to Display Characters from A to Z Using Loop
       24. Program to Count Number of Digits in an Integer - solved
