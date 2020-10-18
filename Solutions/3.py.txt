@@ -1,0 +1,3 @@
+a1=input(int())
+a2=input(int())
+print(a1+a2)
