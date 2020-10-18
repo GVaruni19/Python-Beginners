@@ -40,7 +40,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       3.  Program to Add Two Integers - solved
       4.  Program to Multiply two Floating Point Numbers
       5.  Program to Find ASCII Value of a Character - solved
-      6.  Program to Compute Quotient and Remainder
+      6.  Program to Compute Quotient and Remainder - solved
       7.  Program to Find the Size of int, float, double and char
       8.  Program to Demonstrate the Working of Keyword long
       9.  Program to Swap Two Numbers - solved
