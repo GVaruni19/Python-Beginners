@@ -79,7 +79,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       42. program to calculate the power using recursion
       43. Program to Calculate Average Using Arrays - solved
       44. Program to Find Largest Element in an Array - solved
-      45. Program to Calculate Standard Deviation
+      45. Program to Calculate Standard Deviation - solved
       46. Program to Add Two Matrices Using Multi-dimensional Arrays
       47. Program to Multiply to Matrix Using Multi-dimensional Arrays
       48. Program to Find Transpose of a Matrix - solved
