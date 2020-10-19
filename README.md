@@ -69,11 +69,11 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       32. Program to Display Prime Numbers Between Intervals Using Function - Remaining
       33. Program to Check Prime or Armstrong Number Using User-defined Function - Remaining
       34. Program to Check Whether a Number can be Expressed as Sum of Two Prime Numbers
-      35. Program to Find the Sum of Natural Numbers using Recursion - Remaining
+      35. Program to Find the Sum of Natural Numbers using Recursion
       36. Program to Find Factorial of a Number Using Recursion
       37. Program to Find G.C.D Using Recursion 
       38. Program to Convert Binary Number to Decimal and vice-versa - Remaining
-      39. Program to Convert Octal Number to Decimal and vice-versa - Remaining
+      39. Program to Convert Octal Number to Decimal and vice-versa
       40. Program to Convert Binary Number to Octal and vice-versa - Remaining
       41. program to Reverse a Sentence Using Recursion
       42. program to calculate the power using recursion
@@ -90,4 +90,4 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       
         
 # Note : Questions with Remaining next to them are yet to be solved. The PRs will be accepted on a First Come First Serve Basis
-Remaining question are : 8,13,32,33,35,38,39,40,46,47,49
+Remaining question are : 8,13,32,33,38,40,46,47,49
