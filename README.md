@@ -68,7 +68,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       31. Program to Make a Simple Calculator
       32. Program to Display Prime Numbers Between Intervals Using Function
       33. Program to Check Prime or Armstrong Number Using User-defined Function
-      34. Program to Check Whether a Number can be Expressed as Sum of Two Prime Numbers
+      34. Program to Check Whether a Number can be Expressed as Sum of Two Prime Numbers - solved
       35. Program to Find the Sum of Natural Numbers using Recursion
       36. Program to Find Factorial of a Number Using Recursion - solved
       37. Program to Find G.C.D Using Recursion - solved
