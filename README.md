@@ -66,7 +66,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       29. Program to Check Armstrong Number 
       30. Program to Display Factors of a Number
       31. Program to Make a Simple Calculator 
-      32. Program to Display Prime Numbers Between Intervals Using Function - Remaining
+      32. Program to Display Prime Numbers Between Intervals Using Function
       33. Program to Check Prime or Armstrong Number Using User-defined Function - Remaining
       34. Program to Check Whether a Number can be Expressed as Sum of Two Prime Numbers
       35. Program to Find the Sum of Natural Numbers using Recursion
@@ -90,4 +90,4 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       
         
 # Note : Questions with Remaining next to them are yet to be solved. The PRs will be accepted on a First Come First Serve Basis
-Remaining question are : 8,13,32,33,38,40,46,47,49
+Remaining question are : 8,13,33,38,40,46,47,49
