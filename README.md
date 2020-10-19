@@ -41,7 +41,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       4.  Program to Multiply two Floating Point Numbers 
       5.  Program to Find ASCII Value of a Character
       6.  Program to Compute Quotient and Remainder 
-      7.  Program to Find the Size of int, float, double and char - Remaining
+      7.  Program to Find the Size of int, float, double and char
       8.  Program to Demonstrate the Working of Keyword long - Remaining
       9.  Program to Swap Two Numbers
       10. Program to Check Whether a Number is Even or Odd 
@@ -90,4 +90,4 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       
         
 # Note : Questions with Remaining next to them are yet to be solved. The PRs will be accepted on a First Come First Serve Basis
-Remaining question are : 7,8,13,32,33,35,38,39,40,46,47,49
+Remaining question are : 8,13,32,33,35,38,39,40,46,47,49
