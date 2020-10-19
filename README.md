@@ -51,7 +51,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       14. Program to Check Leap Year - solved
       15. Program to Check Whether a Number is Positive or Negative - solved
       16. Program to Check Whether a Character is an Alphabet or not
-      17. Program to Calculate the Sum of Natural Numbers
+      17. Program to Calculate the Sum of Natural Numbers - solved
       18. Program to Find Factorial of a Number - solved
       19. Program to Generate Multiplication Table - solved
       20. Program to Display Fibonacci Sequence - solved
@@ -90,4 +90,3 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       
         
 # Note : Questions with solved next to them already have been solved and hence futher pull requests of their soluions will not be accepted.
-Remaining Pull Requests will be dealed starting from 19-10-2020 10am IST
