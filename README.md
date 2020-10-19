@@ -45,12 +45,12 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
       8.  Program to Demonstrate the Working of Keyword long
       9.  Program to Swap Two Numbers - solved
       10. Program to Check Whether a Number is Even or Odd - solved
-      11. Program to Check Whether a Character is Vowel or Consonant
+      11. Program to Check Whether a Character is Vowel or Consonant - solved
       12. Program to Find the Largest Number Among Three Numbers - solved
       13. Program to Find all Roots of a Quadratic Equation provided a,b,c
       14. Program to Check Leap Year - solved
       15. Program to Check Whether a Number is Positive or Negative - solved
-      16. Program to Check Whether a Character is an Alphabet or not
+      16. Program to Check Whether a Character is an Alphabet or not - solved
       17. Program to Calculate the Sum of Natural Numbers - solved
       18. Program to Find Factorial of a Number - solved
       19. Program to Generate Multiplication Table - solved
